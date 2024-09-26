@@ -1,0 +1,33 @@
+{
+  "Name": [
+    {
+      "id": "1",
+      "Name": "Gbenga",
+      "Course": "MBBS"
+    },
+    {
+      "id": "2",
+      "Name": "luke",
+      "Course": "luke-course"
+    },
+    {
+      "id": "3",
+      "Name": "Femi",
+      "Course": "Mech-Engine"
+    }
+  ],
+  "favouriteMeal": [
+    {
+      "id": "1",
+      "Meal": "Amala"
+    },
+    {
+      "id": "2",
+      "Meal": "Beans"
+    },
+    {
+      "id": "3",
+      "Meal": "Rice"
+    }
+  ]
+}
